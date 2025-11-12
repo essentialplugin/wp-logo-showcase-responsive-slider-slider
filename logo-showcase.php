@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: WP Logo Showcase Responsive Slider and Carousel
- * Plugin URI: https://www.essentialplugin.com/wordpress-plugin/wp-logo-showcase-responsive-slider/
+ * Plugin URI: https://essentialplugin.com/wordpress-plugin/wp-logo-showcase-responsive-slider/
  * Description: Easy to add and display Logo Showcase Responsive Slider on your website. Also added Gutenberg block support.
  * Author: Essential Plugin
  * Text Domain: wp-logo-showcase-responsive-slider-slider
  * Domain Path: /languages/
- * Version: 3.8.4
- * Author URI: https://www.essentialplugin.com
+ * Version: 3.8.6
+ * Author URI: https://essentialplugin.com
  *
  * @package WP Logo Showcase Responsive Slider
  * @author Essential Plugin
@@ -18,7 +18,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if( ! defined( 'WPLS_VERSION' ) ) {
-	define( 'WPLS_VERSION', '3.8.4' ); // Version of plugin
+	define( 'WPLS_VERSION', '3.8.6' ); // Version of plugin
+}
+if ( ! defined( 'WPLS_SLUG' ) ) {
+	define( 'WPLS_SLUG', 'wp-logo-showcase-responsive-slider' ); // Slug of plugin
 }
 
 if( ! defined( 'WPLS_DIR' ) ) {
@@ -27,6 +30,10 @@ if( ! defined( 'WPLS_DIR' ) ) {
 
 if( ! defined( 'WPLS_URL' ) ) {
 	define( 'WPLS_URL', plugin_dir_url( __FILE__ ) ); // Plugin url
+}
+
+if( ! defined( 'WPLS_PLUGIN_BASENAME' ) ) {
+	define( 'WPLS_PLUGIN_BASENAME', plugin_basename( __FILE__ ) ); // plugin base name
 }
 
 if( ! defined( 'WPLS_POST_TYPE' ) ) {
@@ -42,23 +49,23 @@ if( ! defined( 'WPLS_META_PREFIX' ) ) {
 }
 
 // if( ! defined( 'WPLS_PLUGIN_BUNDLE_LINK' ) ) {
-// 	define('WPLS_PLUGIN_BUNDLE_LINK', 'https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Logoshowcase&utm_campaign=Welcome-Screen'); // Plugin link
+// 	define('WPLS_PLUGIN_BUNDLE_LINK', 'https://essentialplugin.com/pricing/?utm_source=WP&utm_medium=Logoshowcase&utm_campaign=Welcome-Screen'); // Plugin link
 // }
 
 // if( ! defined( 'WPLS_PLUGIN_LINK_UNLOCK' ) ) {
-// 	define('WPLS_PLUGIN_LINK_UNLOCK', 'https://www.essentialplugin.com/essential-plugin-bundle-pricing/?utm_source=WP&utm_medium=Logoshowcase&utm_campaign=Features-PRO'); // Plugin link
+// 	define('WPLS_PLUGIN_LINK_UNLOCK', 'https://essentialplugin.com/essential-plugin-bundle-pricing/?utm_source=WP&utm_medium=Logoshowcase&utm_campaign=Features-PRO'); // Plugin link
 // }
 
 if( ! defined( 'WPLS_PLUGIN_LINK_UPGRADE' ) ) {
-	define('WPLS_PLUGIN_LINK_UPGRADE', 'https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Logoshowcase&utm_campaign=Upgrade-PRO'); // Plugin Check link
+	define('WPLS_PLUGIN_LINK_UPGRADE', 'https://essentialplugin.com/pricing/?utm_source=WP&utm_medium=Logoshowcase&utm_campaign=Upgrade-PRO'); // Plugin Check link
 }
 
 if( ! defined( 'WPLS_PLUGIN_BUNDLE_LINK' ) ) {
-	define('WPLS_PLUGIN_BUNDLE_LINK', 'https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Logoshowcase&utm_campaign=Welcome-Screen'); // Plugin link
+	define('WPLS_PLUGIN_BUNDLE_LINK', 'https://essentialplugin.com/pricing/?utm_source=WP&utm_medium=Logoshowcase&utm_campaign=Welcome-Screen'); // Plugin link
 }
 
 if( ! defined( 'WPLS_PLUGIN_LINK_UNLOCK' ) ) {
-	define('WPLS_PLUGIN_LINK_UNLOCK', 'https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Logoshowcase&utm_campaign=Features-PRO'); // Plugin link
+	define('WPLS_PLUGIN_LINK_UNLOCK', 'https://essentialplugin.com/pricing/?utm_source=WP&utm_medium=Logoshowcase&utm_campaign=Features-PRO'); // Plugin link
 }
 
 /**
