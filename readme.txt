@@ -6,8 +6,7 @@ Tested up to: 6.8.3
 Stable tag: 3.8.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-A simple and responsive way to display your clients, partners, or sponsors’ logos in a logo slider or carousel layout. Includes shortcode and Gutenberg block support.
+Short Description: Display client and partner logos in a responsive slider or carousel.
 
 == Description ==
 
