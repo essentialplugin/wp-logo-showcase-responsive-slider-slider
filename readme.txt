@@ -1,4 +1,4 @@
-﻿=== Logo Slider, Logo Showcase, Logo Carousel, Logo Gallery and Client Logo ===
+﻿=== WP Logo Showcase Responsive Slider and Carousel ===
 Contributors: essentialplugin
 Tags: logo slider, client logo carousel, image carousel, logo showcase, Responsive logo slider
 Requires at least: 4.0
@@ -7,15 +7,16 @@ Stable tag: 3.8.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Logo Slider and Logo Carousel is The best responsive plugin for logo showcase, logo carousel and display logos with shortcode and Gutenberg block.
+A simple and responsive way to display your clients, partners, or sponsors’ logos in a logo slider or carousel layout. Includes shortcode and Gutenberg block support.
 
 == Description ==
 
-✅ Now that you have your website ready then why don’t you **download** and try out this Logo slider and Logo Carousel to give it better functionality.
+WP Logo Showcase Responsive Slider and Carousel allows you to display logos of clients, sponsors, brands, or partners in a professional and responsive slider or grid layout. You can easily add logos using shortcodes or Gutenberg blocks, and control settings such as the number of logos per slide, autoplay, navigation, and more.
 
-If yes, then **Download Now** logo showcase, Logo slider and Logo Carousel to your website to display your partners and company logos in a properly formed grid. This also helps in building trust of your customers. 
+This plugin supports major page builders including Gutenberg, Elementor, Beaver Builder, Divi, SiteOrigin, and Avada Fusion Builder.
+This also helps in building trust of your customers. 
 
-By **downloading** our WordPress logo Slider and logo carousel on your website, you are in a way giving a very professional touch to it. It’s a way to showcase your company’s standard and position. It not only has the logo but you can also design and customize it with a brief description as well. Download and try this logo showcase responsive slider plugin and carousel which comes with many other features.
+Using the WP Logo Showcase Responsive Slider and Carousel adds a professional touch to your website. It helps you showcase your company’s standards and credibility. You can display logos along with brief descriptions and customize their appearance easily.
 
 [FREE DEMO](https://demo.essentialplugin.com/logo-slider-plugin-demo/?utm_source=WP&utm_medium=Logoshowcase&utm_campaign=Read-Me) | [PRO DEMO](https://demo.essentialplugin.com/prodemo/pro-logo-showcase-responsive-slider/?utm_source=WP&utm_medium=Logoshowcase&utm_campaign=Read-Me)
 
@@ -25,8 +26,6 @@ Your customer might like the professional and fancy vibe of your site with logo 
 
 * Logo Slider and Logo carousel 
 
-**Download Now** it today and explore all the features.
-
 = ✅ Features : =
 
 [youtube https://www.youtube.com/watch?v=eEj85H71prA]
@@ -35,7 +34,7 @@ When you want to makeover your WordPress website theme with something extraordin
 
 WP Logo Showcase Responsive Slider and Carousel plugin lets your website display multiple logo carousels of your clients, sponsors, business partners, affiliates, supporters, brands logos in an aesthetically appealing and professional way.
 
-The plugin work with shortcode so you can easily display logo slideshow anywhere on your site.
+Use shortcodes to easily display a logo slideshow anywhere on your site.
 
 **Also added Gutenberg block support.**
 
@@ -112,7 +111,7 @@ Where limit define the number of posts to display.
 [youtube https://www.youtube.com/watch?v=frvJI6ZqYEo]
 
 = Privacy & Policy =
-* We have also opt-in e-mail selection, once you download the plugin , so that we can inform you and nurture you about products and its features.
+* This plugin may include an optional email opt-in within the admin area to receive updates about new features. No data is collected without explicit user consent.
 
 == Installation ==
 
