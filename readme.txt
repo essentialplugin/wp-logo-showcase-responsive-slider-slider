@@ -3,7 +3,7 @@ Contributors: essentialplugin
 Tags: logo slider, client logo carousel, image carousel, logo showcase, Responsive logo slider
 Requires at least: 4.0
 Tested up to: 6.8.3
-Stable tag: 3.8.6
+Stable tag: 3.8.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Short Description: Display client and partner logos in a responsive slider or carousel.
@@ -135,6 +135,9 @@ Where limit define the number of posts to display.
 7. Gutenberg block preview and options.
 
 == Changelog ==
+
+= 3.8.7 (17, Nov 2025) =
+* [*] Fixed code conflict issue affecting widget saving.
 
 = 3.8.6 (12, Nov 2025) =
 * [*] Check compatibility with WordPress version 6.8.3
