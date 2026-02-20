@@ -2,7 +2,7 @@
 Contributors: essentialplugin
 Tags: logo slider, client logo carousel, image carousel, logo showcase, Responsive logo slider
 Requires at least: 4.0
-Tested up to: 6.8.3
+Tested up to: 6.9.1
 Stable tag: 3.8.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
